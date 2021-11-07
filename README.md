@@ -20,7 +20,7 @@ Application to allow a streamer to set a local filename of an MP4 video, mark st
     - set podbean API key
 
 - full CRUD
-  - add a clip
+  - add a clip (done)
     - add main video filename
     - add start/end times from main video
 

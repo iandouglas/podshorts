@@ -3,6 +3,17 @@ class ClipsController < ApplicationController
         @clips = Clip.all
     end
 
+    def new
+        @clip = Clip.new
+    end
+
+    def create
+        clip = Clip.new(update_params)
+        clip.save
+
+        redirect_to root_path
+    end
+
     def edit
         @clip = Clip.find(params[:id])
     end
@@ -16,7 +27,7 @@ class ClipsController < ApplicationController
 
     def destroy
         Clip.destroy(params[:id])
-        
+
         redirect_to root_path
     end
 
