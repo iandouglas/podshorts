@@ -7,7 +7,6 @@ RSpec.describe ClipsController, type: :request do
 
             visit edit_clip_path(clip.id)
 
-            save_and_open_page
             expect(page).to have_field('Processing finished?', checked: false)
             expect(page).to have_field('Finished publishing?', checked: false)
 
@@ -28,6 +27,21 @@ RSpec.describe ClipsController, type: :request do
             expect(page).to have_field('YouTube Title', with: clip.youtube_title)
             expect(page).to have_field('YouTube Desc', with: clip.youtube_desc)
             expect(page).to have_field('YouTube Thumbnail Text', with: clip.youtube_thumbnail_text)
+       end
+
+       it 'happy path, loads page for a clip id successfully' do
+            clip = create(:clip)
+            visit edit_clip_path(clip.id)
+            expect(page).to have_field('YouTube Title', with: clip.youtube_title)
+
+            # change that field
+            new_title = "hypervisor was here"
+            fill_in 'YouTube Title', with: new_title
+            click_button 'Update Clip'
+
+            # reload the edit page
+            visit edit_clip_path(clip.id)
+            expect(page).to have_field('YouTube Title', with: new_title)
        end
     end
 end

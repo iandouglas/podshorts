@@ -5,16 +5,21 @@ class ClipsController < ApplicationController
 
     def edit
         @clip = Clip.find(params[:id])
+    end
 
-        
+    def update
+        clip = Clip.find(params[:id])
+        clip.update(update_params)
+
+        redirect_to root_path
+    end
 
 
+    private
 
-        # if @clip
-
-        # else 
-        #     # set error
-        #     rediect_to root_path
-        # end
+    def update_params
+        field_list = Clip.columns.map{|c| c.name.to_sym}
+        field_list.shift
+        params.require(:clip).permit(field_list)
     end
 end
