@@ -16,19 +16,19 @@ ActiveRecord::Schema.define(version: 2021_11_07_034606) do
   enable_extension "plpgsql"
 
   create_table "clips", force: :cascade do |t|
-    t.boolean "is_finished"
-    t.boolean "is_published"
+    t.boolean "is_finished", default: false
+    t.boolean "is_published", default: false
     t.string "video_filename"
     t.string "clip_starttime"
     t.string "clip_endtime"
-    t.boolean "is_podcast"
+    t.boolean "is_podcast", default: true
     t.datetime "podcast_pub_datetime"
     t.string "podcast_title"
     t.text "podcast_desc"
     t.string "podcast_teaser_filename"
     t.string "podcast_teaser_starttime"
     t.string "podcast_teaser_endtime"
-    t.boolean "is_youtube"
+    t.boolean "is_youtube", default: true
     t.datetime "youtube_pub_datetime"
     t.string "youtube_title"
     t.text "youtube_desc"

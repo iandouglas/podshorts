@@ -9,6 +9,7 @@ class ClipsController < ApplicationController
         
 
 
+
         # if @clip
 
         # else 

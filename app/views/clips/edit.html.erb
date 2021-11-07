@@ -1,0 +1,12 @@
+<%= form_with model: @clip, url: clip_path(@clip.id), method: :patch, local: true do |f| %>
+    <%= f.label :is_finished, 'Processing finished?' %>
+    <%= f.check_box :is_finished %>
+
+    <%= f.label :video_filename, 'Video Filename' %>
+    <%= f.text_field :video_filename %>
+
+    <%= f.label :is_podcast, 'Do Podcast processing?' %>
+    <%= f.check_box :is_podcast %>
+
+    <%= f.submit %>
+<% end %>
