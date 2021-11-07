@@ -24,6 +24,16 @@ RSpec.describe ClipsController, type: :request do
       end
     end
 
-    it 'redirects to an edit page when clicking a filename'
+    it 'redirects to an edit page when clicking a filename' do
+      number_of_clips = 1
+      clips = create_list(:clip, number_of_clips)
+
+      # fetch page
+      visit root_path
+
+      click_link(clips[0].video_filename)
+
+      expect(current_path).to eq(edit_clip_path(clips[0].id))
+    end
   end
 end
