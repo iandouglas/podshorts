@@ -14,7 +14,7 @@ RSpec.describe ClipsController, type: :request do
       
       expect(page).to have_css("li", count: 5)
       clips.each do |clip|
-        expect(page).to have_content(clip.video_filename)
+        expect(page).to have_link(clip.video_filename)
       end
     end
   end
