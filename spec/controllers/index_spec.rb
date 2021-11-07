@@ -16,9 +16,10 @@ RSpec.describe ClipsController, type: :request do
       clips.each do |clip|
         within "#clip-#{clip.id}" do
           expect(page).to have_link(clip.video_filename)
-          expect(page).to have_content("pod_pub_date: #{clip.podcast_pub_datetime}")
           expect(page).to have_content("start: #{clip.clip_starttime}")
           expect(page).to have_content("end: #{clip.clip_endtime}")
+          expect(page).to have_content("youtube_pub_date: #{clip.podcast_pub_datetime}")
+          expect(page).to have_content("podcast_pub_date: #{clip.podcast_pub_datetime}")
         end
       end
     end
