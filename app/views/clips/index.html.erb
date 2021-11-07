@@ -1,5 +1,10 @@
 <ul>
 <% @clips.each do |clip| %>
-    <li><%= clip.video_filename %></li>
+    <li id="clip-<%= clip.id %>">
+        <%= link_to(clip.video_filename, edit_clip_path(clip.id)) %>,
+        pod_pub_date: <%= clip.podcast_pub_datetime %>,
+        start: <%= clip.clip_starttime %>,
+        end: <%= clip.clip_endtime %>,
+    </li>
 <% end %>
 </ul>

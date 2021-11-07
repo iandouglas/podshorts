@@ -5,17 +5,24 @@ RSpec.describe ClipsController, type: :request do
   describe 'show all clips' do
     it 'shows all clips' do
       # build some dummy data, 5 clips
-      clips = create_list(:clip, 5)
+      number_of_clips = 3
+      clips = create_list(:clip, number_of_clips)
 
       # fetch page
       visit root_path
 
       # expect 5 clips on page
-      
-      expect(page).to have_css("li", count: 5)
+      expect(page).to have_css("li", count: number_of_clips)
       clips.each do |clip|
-        expect(page).to have_link(clip.video_filename)
+        within "#clip-#{clip.id}" do
+          expect(page).to have_link(clip.video_filename)
+          expect(page).to have_content("pod_pub_date: #{clip.podcast_pub_datetime}")
+          expect(page).to have_content("start: #{clip.clip_starttime}")
+          expect(page).to have_content("end: #{clip.clip_endtime}")
+        end
       end
     end
+
+    it 'redirects to an edit page when clicking a filename'
   end
 end

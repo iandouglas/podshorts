@@ -1,0 +1,88 @@
+#podcast-intro-audio.mp4|00:00:00|00:00:46|podcast-intro
+#podcast-outro.mp4|00:00:08|00:00:56|podcast-outro
+
+#2021-08-29-qa.mp4|00:28:10|00:31:26|podcast-prep.mp4|00:05:52|00:05:57|what are some ways you can prepare for interviewing to get a better job? well, I'm glad you're here!
+#2021-09-05-qa.mp4|00:07:47|00:12:44|podcast-prep.mp4|00:07:39|00:07:52|I've helped people get jobs at FAANG companies, and I often get asked what to study. I share some thoughts on common problem types you could get asked and how to study, check the show notes for a link to a youtube video I made on how to study better
+#2021-09-05-qa.mp4|00:35:52|00:37:14|podcast-prep.mp4|00:08:59|00:09:07|What's the #1 mistake I see candidates make preparing for interviews? Hint: it's not how much they studied or for how long.
+#2021-09-05-qa.mp4|00:12:43|00:17:29|podcast-prep.mp4|00:07:54|00:08:04|What is your greatest weakness? Uh, I dunno, maybe being bored to death by this SAME question over and over? Here's what they're REALLY asking, and how to answer it well.
+#2021-08-29-qa.mp4|01:06:57|01:09:25|podcast-prep.mp4|00:07:04|00:07:15|do companies care about your previous role or title when they see you've applied for a job? The short answer is "kinda" but they're really looking for proof of growth in your career
+#2021-08-29-qa.mp4|00:38:41|00:44:54|podcast-prep.mp4|00:06:18|00:06:27|in this episode I share more thoughts on applying to multiple jobs at the same time, common Q4 hiring trends I've seen, and more.
+#2021-08-29-qa.mp4|00:12:06|00:16:42|podcast-prep.mp4|00:05:03|00:05:12|Good technical interviews often bring about great discussion, like monolith applications versus microservice architecture. Which is better? When would you use one or the other?
+#2021-07-25-qa.mp4|00:05:00|00:09:05|podcast-prep.mp4|00:00:06|00:00:13|have you ever been asked to do a tech challenge for a company as part of their interview process and then NOT get an interview? what do you even DO about that?
+#2021-07-25-qa.mp4|00:13:43|00:17:07|podcast-prep.mp4|00:00:24|00:00:31|What do you do when you need more time to prepare for an interview? how do you ask for more time and how much time should you request?
+#2021-07-25-qa.mp4|00:43:28|00:46:45|podcast-prep.mp4|00:01:39|00:01:44|how do you ask for feedback after an interview, and when is an appropriate time to ask?
+#2021-08-12-qa.mp4|00:35:54|00:38:36|podcast-prep.mp4|00:03:53|00:04:00|how do you answer questions about leaving (or wanting to leave) your previous job? The answer: very carefully.
+#2021-08-29-qa.mp4|00:07:06|00:12:06|podcast-prep.mp4|00:04:53|00:05:01|When you're applying or interviewing for a job, you'll often get asked for your salary expectations. How do you dodge that question without sounding rude?
+#2021-09-19-qa.mp4|00:24:16|00:26:56|podcast-prep.mp4|00:10:44|00:10:52|A very common question I get is how to stand out as an applicant. Are there tips or tricks to increase your chances of getting an interview?
+#2021-09-19-qa.mp4|00:39:54|00:45:47|podcast-prep.mp4|00:11:15|00:11:20|What kinds of questions should you expect to answer as a developer during an interview?
+#2021-09-19-qa.mp4|00:30:08|00:39:03|podcast-prep.mp4|00:11:05|00:11:13|is preparing for a remote interview very different than an in-person interview? Let's compare the two a little, and talk about the best ways to prepare
+#2021-08-12-qa.mp4|00:27:55|00:32:08|podcast-prep.mp4|00:03:36|00:03:42|I got through my interviews and my references were called, and then ... nothing! I got ghosted, what do I do?
+#2021-08-12-qa.mp4|00:53:58|01:03:03|podcast-prep.mp4|00:04:43|00:04:50|Which techologies will reign supreme forever more? The quick answer: none of them, everything will get replaced, eventually
+#2021-09-05-qa.mp4|00:21:07|00:27:23|podcast-prep.mp4|00:08:13|00:08:24|In this apisode I handle a question where someone was given 48 hours to produce a 15min technical talk and prepare for a 60min Q&A session. Is that fair to ask?
+#2021-07-25-qa.mp4|00:09:05|00:10:06|podcast-prep.mp4|00:00:15|00:00:22|Should you send a follow-up email after an interview? If so, how soon should you send it, and what should you say?
+#2021-08-12-qa.mp4|00:05:06|00:09:25|podcast-prep.mp4|00:02:28|00:02:34|Here's another behavioral question: how do you handle competing priorities on the job?
+#2021-08-29-qa.mp4|00:16:42|00:21:46|podcast-prep.mp4|00:05:15|00:05:21|should you ever tell your interviewer or recruiter that you're thinking about attending graduate school in the near future?
+#tig-qa-2021-10-03.mp4|00:19:42|00:26:20|podcast-intros-2021-10-03.mp4|00:00:33|00:00:39|how many leetcode problems does it take to change a lightbulb? the answer ... is quality over quantity. (link to leetcode video)
+
+#tig-qa-2021-10-03.mp4|00:04:55|00:08:41|podcast-intros-2021-10-03.mp4|00:00:04|00:00:12|if you're a company interviewing people you OWE it to your candidates to give them feedback if they don't progress through your interview process
+#2021-11-04|2021-09-05-qa.mp4|00:32:29|00:34:32|podcast-prep.mp4|00:08:49|00:08:56|the most common question I get on the stream is how to get a job as a web developer. In this quick answer I give you a few tips.
+#2021-10-12|2021-07-25-qa.mp4|00:17:07|00:21:05|podcast-prep.mp4|00:00:32|00:00:40|how many golf balls fit on a school bus? what kind of question is THAT? here's how to answer brain-teaser questions at an interview
+#2021-10-13|2021-08-12-qa.mp4|00:09:25|00:14:21|podcast-prep.mp4|00:02:44|00:02:51|how do you answer the popular quesiton "tell me about yourself", and I also describe my free daily email series
+#2021-10-14|2021-08-29-qa.mp4|00:21:46|00:25:37|podcast-prep.mp4|00:05:27|00:05:39|in this episode I discuss how interviewers could adjust theier interviews to get more data with fewer questions, but why that makes your interviewing process more difficult # for your candidates; in short, don't do it!
+#2021-10-15|2021-09-05-qa.mp4|00:17:30|00:21:08|podcast-prep.mp4|00:08:07|00:08:11|Can an interviewer determine how trustworthy you are during an interview?
+#2021-10-18|2021-07-25-qa.mp4|00:21:05|00:24:12|podcast-prep.mp4|00:00:42|00:00:48|how you get treated before and during an interview matters -- what do you do if you're kept waiting on PURPOSE
+#2021-10-19|2021-08-12-qa.mp4|00:14:21|00:16:24|podcast-prep.mp4|00:02:54|00:03:01|if you've ever applied for a role by mistake when you meant to apply for a different role, this episode is for you
+#2021-10-20|2021-08-29-qa.mp4|00:25:37|00:27:40|podcast-prep.mp4|00:05:43|00:05:51|Do companies follow a script of questions in the tech industry? depending on the industry or the clientele of the company, maybe.
+#2021-10-21|2021-09-05-qa.mp4|00:27:26|00:29:15|podcast-prep2.mp4|00:00:01|00:00:11|is it a good sign that a manager you interviewed with connects on LinkedIn after getting an offer? why does this kind of thing happen?
+#2021-10-22|2021-09-19-qa.mp4|00:10:21|00:17:15|podcast-prep.mp4|00:09:59|00:10:08|Being prepared for an interview is a crucial and important part of preparation. Should you also research the people interviewing you, or just the company?
+#2021-10-25|2021-07-25-qa.mp4|00:24:12|00:25:33|podcast-prep.mp4|00:00:50|00:00:56|are preparation materials like the book Cracking the Coding Interview outdated?
+#2021-10-26|2021-08-12-qa.mp4|00:16:24|00:18:09|podcast-prep.mp4|00:03:03|00:03:08|In this episode we examine the question of why you're the best person for this role.
+#2021-10-27|2021-08-29-qa.mp4|00:31:26|00:33:28|podcast-prep.mp4|00:05:59|00:06:06|Help -- I just got a new job and there's no documentaiton, no onboarding, no training, what do I do?
+#2021-10-28|2021-09-05-qa.mp4|00:29:17|00:32:26|podcast-prep.mp4|00:08:38|00:08:47|interviews at tech companies will often ask behavioral questions like what your biggest regret was, and why; you need to answer these carefully, and here are some tips.
+#2021-10-29|2021-09-19-qa.mp4|00:18:51|00:21:29|podcast-prep.mp4|00:10:20|00:10:30|I asked asked a question on Quora about how to answer a behavioral question about being a "risky" employee. This is a good example of when to ask your interviewer for clarification
+#2021-11-01|2021-07-25-qa.mp4|00:26:08|00:29:01|podcast-prep.mp4|00:00:58|00:01:02|How do interviewers determine your level of skill during an interview?
+#2021-11-02|2021-08-12-qa.mp4|00:18:09|00:23:39|podcast-prep.mp4|00:03:10|00:03:18|If you've ever received information about a "job acccelerator" for work or internship experience, be careful of hidden traps in the contract!
+#2021-11-03|2021-08-29-qa.mp4|00:33:28|00:38:41|podcast-prep.mp4|00:06:09|00:06:17|How long after applying for a job should you wait for an interview? what if the job post gets removed, is that a good sign or a bad sign?
+#2021-11-05|2021-09-19-qa.mp4|00:21:31|00:24:13|podcast-prep.mp4|00:10:32|00:10:41|In this episode, someone knows they didn't do well in an interview, but still wanted to know if they should ask for feedback. I'm a big fan of asking for feedback.
+
+
+#unqueued below here
+
+
+
+
+#2021-11-08|2021-07-25-qa.mp4|00:29:01|00:30:40|podcast-prep.mp4|00:01:04|00:01:09|Is it a bad sign to be asked about outdated technologies or design principles in an interview?
+#2021-11-09|2021-08-12-qa.mp4|00:23:39|00:27:30|podcast-prep.mp4|00:03:27|00:03:33|Are there answers someone could give in an interview that would immediately disqualify someone from an interview?
+#2021-11-10|2021-08-29-qa.mp4|00:44:54|00:49:11|podcast-prep.mp4|00:06:29|00:06:38|Ah, the gold old question of "why should we hire you for this role". Why won't this question go away, and how should we answer it? what are they REALLY asking?
+#2021-11-11|2021-09-05-qa.mp4|00:37:57|00:43:34|podcast-prep.mp4|00:09:11|00:09:17|In this episode I help someone who signed an offer letter and then was invited to interview somewhere else
+#2021-11-12|2021-09-19-qa.mp4|00:27:08|00:30:05|podcast-prep.mp4|00:10:54|00:11:02|In this episode I was asked a question about whether a candidate should disclose personal needs for medical appointments or mental health appointments.
+
+#2021-11-15|2021-07-25-qa.mp4|00:31:14|00:36:20|podcast-prep.mp4|00:01:12|00:01:15|are tech interviews designed on PURPOSE to be uncomfortable?
+#2021-11-16|2021-08-12-qa.mp4|00:32:08|00:35:54|podcast-prep.mp4|00:03:44|00:03:50|I got rejected from an interview, but I still want to work at this company, should I reapply for a different role?
+#2021-11-17|2021-08-29-qa.mp4|00:51:27|01:01:40|podcast-prep.mp4|00:06:41|00:06:50|in this episode we take a question from our live stream chat about having a gap on the resume of a year or more, and how to address that in an interview.
+#2021-11-18|2021-09-05-qa.mp4|00:43:37|00:46:47|podcast-prep.mp4|00:09:20|00:09:28|sometimes in a tech interview you'll get asked questions way outside your level of experience. Are those questions fair? what should you do to answer them?
+#2021-11-19|tig-qa-2021-10-03.mp4|00:08:47|00:13:56|podcast-intros-2021-10-03.mp4|00:00:15|00:00:22|what are the best ways to prepare to answer technical questions in the interview about your training and project work?
+
+#2021-11-22|2021-07-25-qa.mp4|00:36:20|00:38:07|podcast-prep.mp4|00:01:18|00:01:23|Here's a behavioral question for you -- do you prefer working by yourself, or as part of a team effort?
+#2021-11-23|2021-08-12-qa.mp4|00:38:36|00:42:00|podcast-prep.mp4|00:04:04|00:04:10|How many different jobs should you apply to at a time when you're actively looking for a new job? The short answer? as many as you can.
+#2021-11-24|2021-08-29-qa.mp4|01:01:49|01:06:57|podcast-prep.mp4|00:06:53|00:07:01|behavioral questions need practiced answers, like how you found and handled a problem at work. But sometimes those questions need clarification.
+#2021-11-25|2021-09-05-qa.mp4|00:47:05|00:48:41|podcast-prep.mp4|00:09:30|00:09:36|Are there any kinds of tech jobs or types of interviewer that require less preparation than others?
+#2021-11-26|2021-07-25-qa.mp4|00:38:22|00:43:28|podcast-prep.mp4|00:01:25|00:01:30|What do you think your references would say about you if I called them? How do you answer this kind of question?
+
+#2021-11-27|2021-08-12-qa.mp4|00:42:00|00:44:30|podcast-prep.mp4|00:04:14|00:04:21|is JavaScript a necessary programming language to learn for every developer? Eh ... maybe?
+#2021-11-28|2021-08-29-qa.mp4|01:09:25|01:10:59|podcast-prep.mp4|00:07:24|00:07:36|I get asked sometimes how to book my time for mock interviews, so I share a little bit about my experience with the platform interviewing.io; this episode is not sponsored by interviewing.io, but check the show notes for a referral code to sign up.
+#2021-11-29|2021-09-05-qa.mp4|00:49:03|00:53:33|podcast-prep.mp4|00:09:39|00:09:46|in this episode I took a question from the live stream chat about how to interview someone who had more experience than themselves.
+#2021-11-30|tig-qa-2021-10-03.mp4|00:13:59|00:19:40|podcast-intros-2021-10-03.mp4|00:00:25|00:00:30|what are some tips for getting better at solving technical challenges in interviews? (link to leetcode video)
+#2021-12-01|2021-07-25-qa.mp4|00:46:45|00:52:36|podcast-prep.mp4|00:01:46|00:01:54|In this episode, someone started a new job and then got invited to their final interview for their dream job at Google -- what should they do?
+
+#2021-12-04|2021-08-12-qa.mp4|00:47:45|00:53:58|podcast-prep.mp4|00:04:23|00:04:32|should you get a job at a staffing agency to get that first job? Consultancies can be harder for entry-level devs or people who don't like switching projects often.
+#2021-12-05|2021-09-05-qa.mp4|00:53:33|00:56:14|podcast-prep.mp4|00:09:50|00:09:56|What are some considerations for calling yourself a "senior" level developer? when are you actually ready for that kind of title?
+#2021-12-06|2021-07-25-qa.mp4|00:52:56|00:56:02|podcast-prep.mp4|00:01:56|00:02:04|Technical interview practices need to be kept current. What should you do if you get asked a really outdated behavioral or technical question?
+#2021-12-07|tig-qa-2021-10-03.mp4|00:26:20|00:30:43|podcast-intros-2021-10-03.mp4|00:00:42|00:00:49|how many technical challenges should you expect to answer in a one-hour tech interview? the short answer: as many as you can; (link to 'what questions to ask' panel)
+#2021-12-08|tig-qa-2021-10-03.mp4|00:34:04|00:40:30|podcast-intros-2021-10-03.mp4|00:01:04|00:01:11|do senior level developers take more time to prepare for interviews, or less time, than an entry-level developer?
+
+#2021-12-11|2021-07-25-qa.mp4|00:56:02|00:59:01|podcast-prep.mp4|00:02:07|00:02:17|In this episode, I was asked for the worst piece of information I ever heard about a candidate during a reference call. And also why I think reference calls are kind of silly in the first place.
+#2021-12-12|tig-qa-2021-10-03.mp4|00:30:47|00:32:50|podcast-intros-2021-10-03.mp4|00:00:52|00:01:01|can you postpone an interview? sure ... if they're a big company who is constantly hiring, talk to your recruiter. If it's a smaller company, it's a risky move.
+#2021-12-13|2021-07-25-qa.mp4|00:59:01|01:02:48|podcast-prep.mp4|00:02:19|00:02:26|what are some ways your interviewer will determine top talent, or your level of talent, during a relatively short interview?
+#2021-12-14|tig-qa-2021-10-03.mp4|00:41:01|00:45:22|podcast-intros-2021-10-03.mp4|00:01:13|00:01:21|in a 30-minute interview, I made a syntax error, gave a wrong answer, and couldn't answer a third question at all; what should I expect to happen?
+

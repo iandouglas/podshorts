@@ -1,0 +1,15 @@
+#podcast-intro-audio.mp4|00:00:00|00:00:46|podcast-intro
+#podcast-outro.mp4|00:00:08|00:00:56|podcast-outro
+
+
+#tig-qa-2021-10-03.mp4|00:04:55|00:08:41|why can't companies just give us feedback?!
+#tig-qa-2021-10-03.mp4|00:08:47|00:13:56|what's the best way to prep for the technical interview?
+#tig-qa-2021-10-03.mp4|00:13:59|00:19:40|how do I get better at solving technical challenges?
+#tig-qa-2021-10-03.mp4|00:19:42|00:25:26|how many leetcode problems should I grind to be ready for interviews?
+#tig-qa-2021-10-03.mp4|00:26:20|00:30:43|how many problems will I be asked to solve at an interview?
+#tig-qa-2021-10-03.mp4|00:30:47|00:32:50|can I postpone Facebook's interview process for a month?
+#tig-qa-2021-10-03.mp4|00:34:04|00:40:30|how long does a senior dev take to prepare for an interview?
+#tig-qa-2021-10-03.mp4|00:41:01|00:45:22|how many mistakes can I make in an interview?
+
+
+
