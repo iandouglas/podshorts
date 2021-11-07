@@ -14,6 +14,11 @@ class ClipsController < ApplicationController
         redirect_to root_path
     end
 
+    def destroy
+        Clip.destroy(params[:id])
+        
+        redirect_to root_path
+    end
 
     private
 

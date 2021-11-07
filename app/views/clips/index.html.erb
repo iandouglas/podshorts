@@ -6,6 +6,7 @@
         end: <%= clip.clip_endtime %>,
         youtube_pub_date: <%= clip.podcast_pub_datetime %>,
         podcast_pub_date: <%= clip.podcast_pub_datetime %>,
+        <%= link_to('delete clip', clip_path(clip.id), method: :delete) %>,
     </li>
 <% end %>
 </ul>

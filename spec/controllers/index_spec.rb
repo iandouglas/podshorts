@@ -35,5 +35,24 @@ RSpec.describe ClipsController, type: :request do
 
       expect(current_path).to eq(edit_clip_path(clips[0].id))
     end
+
+    it 'allows user to delete an entry' do
+      number_of_clips = 3
+      clips = create_list(:clip, number_of_clips)
+
+      visit root_path
+
+      expect(page).to have_css("li", count: number_of_clips)
+
+      mid_point = (number_of_clips/2).to_i
+      expect(page).to have_content(clips[mid_point].video_filename)
+
+      within "#clip-#{clips[mid_point].id}" do
+        click_link 'delete clip'
+      end
+
+      expect(page).to have_css("li", count: number_of_clips-1)
+      expect(page).to_not have_content(clips[mid_point].video_filename)
+    end
   end
 end

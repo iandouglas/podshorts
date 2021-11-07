@@ -35,9 +35,9 @@ Application to allow a streamer to set a local filename of an MP4 video, mark st
         - title has a hard size limit for thumbnail generation
       - thumbnail string
 
-  - index page
-  - show/edit
-  - delete action
+  - index page (done)
+  - show/edit (done)
+  - delete action (done)
 
 ## database setup
 
