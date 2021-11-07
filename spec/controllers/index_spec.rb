@@ -11,8 +11,11 @@ RSpec.describe ClipsController, type: :request do
       visit root_path
 
       # expect 5 clips on page
-      puts page.html.length
-      expect(page).to have_content(clips[0].video_filename)
+      
+      expect(page).to have_css("li", count: 5)
+      clips.each do |clip|
+        expect(page).to have_content(clip.video_filename)
+      end
     end
   end
 end
