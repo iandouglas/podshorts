@@ -3,42 +3,82 @@
         <%= f.label :is_finished, 'Processing finished?' %>
         <%= f.check_box :is_finished %>
     </p>
-    <%= f.label :is_finished, 'Finished publishing?' %>
-    <%= f.check_box :is_published %>
+    <p>
+        <%= f.label :is_finished, 'Finished publishing?' %>
+        <%= f.check_box :is_published %>
+    </p>
+    <hr/>
 
 
-    <%= f.label :video_filename, 'Video Filename' %>
-    <%= f.text_field :video_filename %>
-    <%= f.label :clip_starttime, 'Clip Start' %>
-    <%= f.text_field :clip_starttime, placeholder: '00:00:00' %>
-    <%= f.label :clip_endtime, 'Clip End' %>
-    <%= f.text_field :clip_endtime, placeholder: '00:00:00' %>
+    <p>
+        <%= f.label :video_filename, 'Video Filename' %>
+        <%= f.text_field :video_filename %>
+    </p>
+    <p>
+        <%= f.label :clip_starttime, 'Clip Start' %>
+        <%= f.text_field :clip_starttime, placeholder: '00:00:00' %>
+    </p>
+    <p>
+        <%= f.label :clip_endtime, 'Clip End' %>
+        <%= f.text_field :clip_endtime, placeholder: '00:00:00' %>
+    </p>
+    <hr/>
 
-    <%= f.label :is_podcast, 'Do Podcast processing?' %>
-    <%= f.check_box :is_podcast %>
-    <%= f.label :podcast_pub_datetime, 'Podcast Publication Date' %>
-    <%= f.datetime_local_field :podcast_pub_datetime %>
-    <%= f.label :podcast_title, 'Podcast Title' %>
-    <%= f.text_field :podcast_title %>
-    <%= f.label :podcast_desc, 'Podcast Desc' %>
-    <%= f.text_field :podcast_desc %>
-    <%= f.label :podcast_teaser_filename, 'Podcast Teaser Filename' %>
-    <%= f.text_field :podcast_teaser_filename %>
-    <%= f.label :podcast_teaser_starttime, 'Teaser Start' %>
-    <%= f.text_field :podcast_teaser_starttime, placeholder: '00:00:00' %>
-    <%= f.label :podcast_teaser_endtime, 'Teaser End' %>
-    <%= f.text_field :podcast_teaser_endtime, placeholder: '00:00:00' %>
 
+    <p>
+        <%= f.label :is_podcast, 'Do Podcast processing?' %>
+        <%= f.check_box :is_podcast %>
+    </p>
+    <p>
+        <%= f.label :podcast_pub_datetime, 'Podcast Publication Date' %>
+        <%= f.datetime_local_field :podcast_pub_datetime %>
+    </p>
+    <p>
+        <%= f.label :podcast_title, 'Podcast Title' %>
+        <%= f.text_field :podcast_title %>
+    </p>
+    <p>
+        <%= f.label :podcast_desc, 'Podcast Desc' %>
+        <%= f.text_field :podcast_desc %>
+    </p>
+    <p>
+        <%= f.label :podcast_teaser_filename, 'Podcast Teaser Filename' %>
+        <%= f.text_field :podcast_teaser_filename %>
+    </p>
+    <p>
+        <%= f.label :podcast_teaser_starttime, 'Teaser Start' %>
+        <%= f.text_field :podcast_teaser_starttime, placeholder: '00:00:00' %>
+    </p>
+    <p>
+        <%= f.label :podcast_teaser_endtime, 'Teaser End' %>
+        <%= f.text_field :podcast_teaser_endtime, placeholder: '00:00:00' %>
+    </p>
+    <hr/>
+
+
+    <p>
     <%= f.label :is_youtube, 'Do YouTube processing?' %>
     <%= f.check_box :is_youtube %>
+    </p>
+    <p>
     <%= f.label :youtube_pub_datetime, 'YouTube Publication Date' %>
     <%= f.datetime_local_field :youtube_pub_datetime %>
+    </p>
+    <p>
     <%= f.label :youtube_title, 'YouTube Title' %>
     <%= f.text_field :youtube_title %>
+    </p>
+    <p>
     <%= f.label :youtube_desc, 'YouTube Desc' %>
     <%= f.text_field :youtube_desc %>
+    </p>
+    <p>
     <%= f.label :youtube_thumbnail_text, 'YouTube Thumbnail Text' %>
-    <%= f.text_field :youtube_thumbnail_text %>
+    <%= f.text_field :youtube_thumbnail_text, maxlength: 65 %>
+    </p>
+    <hr/>
 
+    <p>
     <%= f.submit %>
+    </p>
 <% end %>
